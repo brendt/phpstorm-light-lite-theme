@@ -10,6 +10,10 @@ Colours are based on Google's logo:
 |----------------------------------------------------------------------------------------------------------|---|
 | ![](https://user-images.githubusercontent.com/6905297/59024434-2fabe100-8852-11e9-9645-7e5bb3d9aa51.png)  | ![](https://user-images.githubusercontent.com/6905297/59024936-53bbf200-8853-11e9-8169-bf8560d53e0b.png) |
 
+## Installation
+
+In PhpStorm, go to `Settings > Editor > Color Scheme` press the little cog next to the scheme selector, and choose `Import Scheme`.
+
 ## Contributing
 
 This theme is still a work in progress. Feel free to send PRs and open issues.
