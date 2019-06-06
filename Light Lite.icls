@@ -1,10 +1,10 @@
 <scheme name="Light Lite" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-06-06T11:52:18</property>
+    <property name="created">2019-06-06T14:34:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-06T11:52:23</property>
+    <property name="modified">2019-06-06T14:34:16</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <colors>
@@ -138,9 +138,9 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="424242" />
+        <option name="FOREGROUND" value="454545" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ea4334" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -212,9 +212,9 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="444444" />
+        <option name="FOREGROUND" value="454545" />
+        <option name="BACKGROUND" value="fffbf2" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ea4334" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
