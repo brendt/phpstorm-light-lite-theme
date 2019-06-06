@@ -9,3 +9,7 @@ Colours are based on Google's logo:
 | ![](https://user-images.githubusercontent.com/6905297/59024383-17d45d00-8852-11e9-8641-df15b3e551ad.png) |  ![](https://user-images.githubusercontent.com/6905297/59024416-27ec3c80-8852-11e9-8660-d61ce382724f.png) |
 |----------------------------------------------------------------------------------------------------------|---|
 | ![](https://user-images.githubusercontent.com/6905297/59024434-2fabe100-8852-11e9-9645-7e5bb3d9aa51.png)  | ![](https://user-images.githubusercontent.com/6905297/59024936-53bbf200-8853-11e9-8169-bf8560d53e0b.png) |
+
+## Contributing
+
+This theme is still a work in progress. Feel free to send PRs and open issues.
