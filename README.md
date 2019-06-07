@@ -1,5 +1,7 @@
 # A minimalistic light colour scheme for PhpStorm
 
+If you need convincing of a light colour scheme, I'd like to direct you to [a post](*https://stitcher.io/blog/a-programmers-cognitive-load) on the topic. 
+
 Colours are based on Google's logo:
 
 | Colours | | | |
