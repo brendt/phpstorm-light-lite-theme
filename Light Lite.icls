@@ -1,10 +1,10 @@
 <scheme name="Light Lite" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-06-06T14:34:13</property>
+    <property name="created">2019-06-07T09:32:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-06T14:34:16</property>
+    <property name="modified">2019-06-07T09:32:11</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <colors>
@@ -322,13 +322,25 @@
       <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="454545" />
+        <option name="BACKGROUND" value="fff9eb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="454545" />
+        <option name="BACKGROUND" value="fff9eb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="454545" />
+        <option name="BACKGROUND" value="fff9eb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
