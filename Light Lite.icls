@@ -1,10 +1,10 @@
 <scheme name="Light Lite" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-06-07T09:32:09</property>
+    <property name="created">2019-06-11T14:18:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-07T09:32:11</property>
+    <property name="modified">2019-06-11T14:18:40</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <colors>
@@ -25,12 +25,12 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="f0f0f0" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
-    <option name="SELECTED_TEARLINE_COLOR" value="" />
+    <option name="SELECTED_TEARLINE_COLOR" value="0" />
     <option name="SELECTION_BACKGROUND" value="dddddd" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-    <option name="TEARLINE_COLOR" value="" />
+    <option name="TEARLINE_COLOR" value="aaaaaa" />
     <option name="VISUAL_INDENT_GUIDE" value="f0f0f0" />
     <option name="WHITESPACES" value="" />
   </colors>
