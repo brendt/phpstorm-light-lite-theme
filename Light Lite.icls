@@ -1,12 +1,19 @@
 <scheme name="Light Lite" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-06-11T14:18:38</property>
+    <property name="created">2021-04-08T05:28:05</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-11T14:18:40</property>
+    <property name="ideVersion">2020.3.3.0.0</property>
+    <property name="modified">2021-04-08T05:28:18</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.7" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Monaco" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="CARET_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="f7f7f7" />
@@ -94,6 +101,11 @@
         <option name="FOREGROUND" value="34a853" />
       </value>
     </option>
+    <option name="CONSOLE_RANGE_TO_EXECUTE">
+      <value>
+        <option name="BACKGROUND" value="f7f5ff" />
+      </value>
+    </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff3e25" />
@@ -143,6 +155,9 @@
         <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
+    <option name="DEFAULT_BRACES">
+      <value />
+    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="ea4334" />
@@ -155,7 +170,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="555555" />
+        <option name="FOREGROUND" value="34a853" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -218,7 +233,9 @@
       </value>
     </option>
     <option name="DEFAULT_METADATA">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value />
@@ -226,6 +243,12 @@
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="555555" />
+      </value>
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="34a853" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -239,7 +262,9 @@
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="34a853" />
+      </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
@@ -303,7 +328,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f0f0f0" />
+        <option name="EFFECT_COLOR" value="34a853" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -466,12 +492,23 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PHP_ATTRIBUTE">
+      <value />
+    </option>
+    <option name="PHP_CONCATENATION">
+      <value />
+    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value />
     </option>
     <option name="PHP_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="222222" />
+        <option name="FOREGROUND" value="34a853" />
+      </value>
+    </option>
+    <option name="PHP_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="34a853" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
@@ -487,10 +524,8 @@
         <option name="FOREGROUND" value="ea4334" />
       </value>
     </option>
-    <option name="PHP_PROTECTED_INSTANCE_FIELD">
-      <value>
-        <option name="FOREGROUND" value="222222" />
-      </value>
+    <option name="PHP_STRING">
+      <value />
     </option>
     <option name="PHP_VAR">
       <value />
@@ -524,6 +559,11 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value />
     </option>
+    <option name="TS.PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="fcbc05" />
@@ -540,7 +580,10 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="34a853" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
