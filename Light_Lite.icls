@@ -1,13 +1,13 @@
 <scheme name="Light Lite" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-04-08T05:28:05</property>
+    <property name="created">2022-02-16T08:01:53</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-04-08T05:28:18</property>
+    <property name="ideVersion">2021.3.1.0.0</property>
+    <property name="modified">2022-02-16T08:02:13</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.7" />
+  <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
