@@ -293,6 +293,7 @@
       <value>
         <option name="FOREGROUND" value="ea4334" />
         <option name="EFFECT_COLOR" value="ea4334" />
+        <option name="ERROR_STRIPE_COLOR" value="ea4334" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -302,6 +303,7 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="e84135" />
+        <option name="ERROR_STRIPE_COLOR" value="e84135" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -329,6 +331,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="34a853" />
+        <option name="ERROR_STRIPE_COLOR" value="34a853" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -341,6 +344,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="fcbc05" />
+        <option name="ERROR_STRIPE_COLOR" value="fcbc05" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -476,6 +480,7 @@
       <value>
         <option name="FOREGROUND" value="ea4334" />
         <option name="EFFECT_COLOR" value="e84135" />
+        <option name="ERROR_STRIPE_COLOR" value="ea4334" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -489,6 +494,7 @@
         <option name="FOREGROUND" value="777777" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="333333" />
+        <option name="ERROR_STRIPE_COLOR" value="333333" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -567,6 +573,7 @@
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="fcbc05" />
+        <option name="ERROR_STRIPE_COLOR" value="fcbc05" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -576,12 +583,14 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ea4334" />
+        <option name="ERROR_STRIPE_COLOR" value="ea4334" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="34a853" />
+        <option name="ERROR_STRIPE_COLOR" value="34a853" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
