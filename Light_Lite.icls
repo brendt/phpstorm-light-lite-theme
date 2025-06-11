@@ -421,21 +421,6 @@
         <option name="FOREGROUND" value="4285f4" />
       </value>
     </option>
-    <option name="LINE_FULL_COVERAGE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="LINE_NONE_COVERAGE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="LINE_PARTIAL_COVERAGE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value />
     </option>
